@@ -41,23 +41,23 @@ The same intefaces allow cross fragment communication by beign used in `MainActi
 Demo
 ---
 The app opens up with `fragmentOne` on top in light blue and `fragemntTwo` on the bottom in dark blue. 
-<img src="https://github.com/hrazo7/fragment-communication-demo/tree/master/screenshots/mainScreen.png" width="400" height="650" title="Main Screen"> 
+<img src="https://github.com/hrazo7/fragment-communication-demo/blob/master/screenshots/mainScreen.png" width="400" height="650" title="Main Screen"> 
 
 When the user taps on the editText area, the keyboard will pop up and allow the user to type. This screenshot shows the user typing onto `fragmentOne`.
 
-<img src="https://github.com/hrazo7/fragment-communication-demo/tree/master/screenshots/fragmentOneInput.png" width="400" height="650" title="fragmentOneInput"> 
+<img src="https://github.com/hrazo7/fragment-communication-demo/blob/master/screenshots/fragmentOneInput.png" width="400" height="650" title="fragmentOneInput"> 
 
 Upon pressing send, the editText field in `fragemntTwo` should have the exact same string as in `fragemntOne`.
 
-<img src="https://github.com/hrazo7/fragment-communication-demo/tree/master/screenshots/fragmentOneSend.png" width="400" height="650" title="fragmentOneSend">
+<img src="https://github.com/hrazo7/fragment-communication-demo/blob/master/screenshots/fragmentOneSend.png" width="400" height="650" title="fragmentOneSend">
 
 Now, you can edit the string in `fragemntTwo` by doing the same thing but in the `fragemntTwo` editText field. Start typing new characters.
 
-<img src="https://github.com/hrazo7/fragment-communication-demo/tree/master/screenshots/fragmentTwoInput.png" width="400" height="650" title="fragmentTwoInput">
+<img src="https://github.com/hrazo7/fragment-communication-demo/blob/master/screenshots/fragmentTwoInput.png" width="400" height="650" title="fragmentTwoInput">
 
 Press send again to submit the changes onto `fragemntOne`.
 
-<img src="https://github.com/hrazo7/fragment-communication-demo/tree/master/screenshots/fragmentTwoSend.png" width="400" height="650" title="fragmentTwoSend">
+<img src="https://github.com/hrazo7/fragment-communication-demo/blob/master/screenshots/fragmentTwoSend.png" width="400" height="650" title="fragmentTwoSend">
 
 Sources and Helpful Links
 ---
